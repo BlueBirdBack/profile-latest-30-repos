@@ -1,0 +1,88 @@
+name: Update latest 30 repositories
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate latest repos block
+        env:
+          USERNAME: BlueBirdBack
+        run: |
+          python - <<'PY'
+          import datetime
+          import json
+          import os
+          import pathlib
+          import re
+          import urllib.request
+
+          user = os.environ["USERNAME"]
+          url = f"https://api.github.com/users/{user}/repos?per_page=100&type=owner&sort=updated&direction=desc"
+
+          with urllib.request.urlopen(url) as resp:
+              repos = json.load(resp)
+
+          repos = [r for r in repos if not r.get("fork")]
+          repos = sorted(repos, key=lambda r: r.get("pushed_at") or "", reverse=True)[:30]
+
+          rows = []
+          rows.append("| # | Repository | Description | Updated | ⭐ |")
+          rows.append("|---:|---|---|---|---:|")
+
+          for i, r in enumerate(repos, 1):
+              name = r["name"]
+              html_url = r["html_url"]
+              desc = (r.get("description") or "").replace("\n", " ").replace("|", "\\|").strip()
+              if len(desc) > 88:
+                  desc = desc[:85] + "..."
+              pushed = (r.get("pushed_at") or "")[:10]
+              stars = r.get("stargazers_count", 0)
+              rows.append(f"| {i} | [{name}]({html_url}) | {desc} | {pushed} | {stars} |")
+
+          section = "\n".join(rows)
+
+          readme_path = pathlib.Path("README.md")
+          text = readme_path.read_text(encoding="utf-8")
+
+          start = "<!-- START_LATEST_REPOS -->"
+          end = "<!-- END_LATEST_REPOS -->"
+          block_pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.S)
+          replacement = f"{start}\n{section}\n{end}"
+
+          if block_pattern.search(text):
+              text = block_pattern.sub(replacement, text)
+          else:
+              text += f"\n\n## Latest 30 repositories (auto-updated)\n\n{replacement}\n"
+
+          timestamp = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+          if re.search(r"Last refresh: .*", text):
+              text = re.sub(r"Last refresh: .*", f"Last refresh: {timestamp}", text)
+          else:
+              text += f"\n\nLast refresh: {timestamp}\n"
+
+          readme_path.write_text(text, encoding="utf-8")
+          PY
+
+      - name: Commit and push
+        run: |
+          if git diff --quiet; then
+            echo "No README changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update latest 30 repositories"
+          git push
