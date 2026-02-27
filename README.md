@@ -17,7 +17,7 @@ Welcome to my GitHub profile.
 | 8 | [clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 9 | [claw-history-skill](https://github.com/BlueBirdBack/claw-history-skill) | OpenClaw skill for full chronological action history (from birth to now) with account... | 2026-02-16 | 0 |
 | 10 | [godot-4.4-card-game-tutorial](https://github.com/BlueBirdBack/godot-4.4-card-game-tutorial) | Code implementing card game fundamentals in Godot 4.4, following the tutorial series ... | 2025-06-19 | 1 |
-| 11 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 103 |
+| 11 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 104 |
 | 12 | [deep-pomo](https://github.com/BlueBirdBack/deep-pomo) | A lightweight web app designed to boost productivity using the Pomodoro technique. Bu... | 2025-03-19 | 0 |
 | 13 | [First-2D-Game](https://github.com/BlueBirdBack/First-2D-Game) | A simple 2D game built with Godot 4.4 where players dodge incoming creeps. Based on t... | 2025-03-08 | 0 |
 | 14 | [godot-2d-grid-movement](https://github.com/BlueBirdBack/godot-2d-grid-movement) | A Godot 4.4 port of GDQuest's 2D Tactical RPG Movement tutorial. This demo showcases ... | 2025-03-04 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [greet](https://github.com/BlueBirdBack/greet) | Greet is a simple Python library that provides greeting messages. | 2024-09-20 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-02-26 19:11 UTC
+Last refresh: 2026-02-27 03:09 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
