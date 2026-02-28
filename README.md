@@ -7,9 +7,9 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-02-28 | 0 |
-| 2 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-02-27 | 0 |
-| 3 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-02-24 | 0 |
+| 1 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-02-28 | 0 |
+| 2 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-02-28 | 0 |
+| 3 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-02-27 | 0 |
 | 4 | [repo-audit-modes-skill](https://github.com/BlueBirdBack/repo-audit-modes-skill) | OpenClaw skill for repo analysis in 3 modes: quick scan, deep audit, and clone+run lo... | 2026-02-21 | 0 |
 | 5 | [claw-desk](https://github.com/BlueBirdBack/claw-desk) | ClawDesk — Multi-tenant AI customer support platform built on OpenClaw | 2026-02-17 | 1 |
 | 6 | [exec-error-doctor-skill](https://github.com/BlueBirdBack/exec-error-doctor-skill) | OpenClaw skill to diagnose and fix command failures (auth, missing binaries, permissi... | 2026-02-16 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [greet](https://github.com/BlueBirdBack/greet) | Greet is a simple Python library that provides greeting messages. | 2024-09-20 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-02-28 06:57 UTC
+Last refresh: 2026-02-28 13:07 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
