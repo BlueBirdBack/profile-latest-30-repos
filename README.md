@@ -7,8 +7,8 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-03-07 | 0 |
-| 2 | [askclaw](https://github.com/BlueBirdBack/askclaw) | The web UI OpenClaw should have shipped with | 2026-03-07 | 0 |
+| 1 | [askclaw](https://github.com/BlueBirdBack/askclaw) | The web UI OpenClaw should have shipped with | 2026-03-08 | 0 |
+| 2 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-03-07 | 0 |
 | 3 | [openclaw-pain-points](https://github.com/BlueBirdBack/openclaw-pain-points) | Community research: OpenClaw's top user pain points ranked by frequency × severity | 2026-03-07 | 0 |
 | 4 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-03-07 | 0 |
 | 5 | [claw-history-skill](https://github.com/BlueBirdBack/claw-history-skill) | OpenClaw skill for full chronological action history (from birth to now) with account... | 2026-03-06 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [b3_greet](https://github.com/BlueBirdBack/b3_greet) |  | 2024-09-23 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-03-07 18:50 UTC
+Last refresh: 2026-03-08 03:12 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
