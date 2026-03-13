@@ -7,8 +7,8 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-03-12 | 0 |
-| 2 | [askclaw](https://github.com/BlueBirdBack/askclaw) | The web UI OpenClaw should have shipped with | 2026-03-09 | 0 |
+| 1 | [askclaw](https://github.com/BlueBirdBack/askclaw) | Knowledge, alive. Turn any knowledge base into an AI support agent. | 2026-03-13 | 0 |
+| 2 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-03-12 | 0 |
 | 3 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-03-09 | 0 |
 | 4 | [openclaw-pain-points](https://github.com/BlueBirdBack/openclaw-pain-points) | Community research: OpenClaw's top user pain points ranked by frequency × severity | 2026-03-07 | 0 |
 | 5 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-03-07 | 0 |
@@ -19,7 +19,7 @@ Welcome to my GitHub profile.
 | 10 | [exec-clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/exec-clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 11 | [clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 12 | [godot-4.4-card-game-tutorial](https://github.com/BlueBirdBack/godot-4.4-card-game-tutorial) | Code implementing card game fundamentals in Godot 4.4, following the tutorial series ... | 2025-06-19 | 1 |
-| 13 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 105 |
+| 13 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 106 |
 | 14 | [deep-pomo](https://github.com/BlueBirdBack/deep-pomo) | A lightweight web app designed to boost productivity using the Pomodoro technique. Bu... | 2025-03-19 | 0 |
 | 15 | [First-2D-Game](https://github.com/BlueBirdBack/First-2D-Game) | A simple 2D game built with Godot 4.4 where players dodge incoming creeps. Based on t... | 2025-03-08 | 0 |
 | 16 | [godot-2d-grid-movement](https://github.com/BlueBirdBack/godot-2d-grid-movement) | A Godot 4.4 port of GDQuest's 2D Tactical RPG Movement tutorial. This demo showcases ... | 2025-03-04 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [b3_greet](https://github.com/BlueBirdBack/b3_greet) |  | 2024-09-23 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-03-12 19:12 UTC
+Last refresh: 2026-03-13 03:09 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
