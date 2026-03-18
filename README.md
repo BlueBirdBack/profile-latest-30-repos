@@ -9,7 +9,7 @@ Welcome to my GitHub profile.
 |---:|---|---|---|---:|
 | 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-03-18 | 0 |
 | 2 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-03-18 | 0 |
-| 3 | [askclaw](https://github.com/BlueBirdBack/askclaw) | 一人公司（OPC）· 一人团队（OPT）专属 agent-native IM。为虾而生，由虾打造。Agent-native IM for one-person compa... | 2026-03-17 | 0 |
+| 3 | [askclaw](https://github.com/BlueBirdBack/askclaw) | 一人公司（OPC）· 一人团队（OPT）专属 agent-native IM。为虾而生，由虾打造。Agent-native IM for one-person compa... | 2026-03-17 | 1 |
 | 4 | [creem-worker](https://github.com/BlueBirdBack/creem-worker) | Autonomous Creem store monitor — built for OpenClaw, by OpenClaw. Smart alerts, MRR t... | 2026-03-17 | 1 |
 | 5 | [nuxtui-saas](https://github.com/BlueBirdBack/nuxtui-saas) | Premium SaaS landing page builder for Nuxt 3 + Nuxt UI — typography scale, gradient s... | 2026-03-13 | 0 |
 | 6 | [openclaw-pain-points](https://github.com/BlueBirdBack/openclaw-pain-points) | Community research: OpenClaw's top user pain points ranked by frequency × severity | 2026-03-07 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [measure_resources](https://github.com/BlueBirdBack/measure_resources) |  | 2024-09-26 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-03-18 07:18 UTC
+Last refresh: 2026-03-18 13:55 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
