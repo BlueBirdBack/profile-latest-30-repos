@@ -16,7 +16,7 @@ Welcome to my GitHub profile.
 | 7 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-03-07 | 0 |
 | 8 | [claw-history-skill](https://github.com/BlueBirdBack/claw-history-skill) | OpenClaw skill for full chronological action history (from birth to now) with account... | 2026-03-06 | 0 |
 | 9 | [repo-audit-modes-skill](https://github.com/BlueBirdBack/repo-audit-modes-skill) | OpenClaw skill for repo analysis in 3 modes: quick scan, deep audit, and clone+run lo... | 2026-02-21 | 0 |
-| 10 | [claw-desk](https://github.com/BlueBirdBack/claw-desk) | ClawDesk — Multi-tenant AI customer support platform built on OpenClaw | 2026-02-17 | 1 |
+| 10 | [claw-desk](https://github.com/BlueBirdBack/claw-desk) | ClawDesk — Multi-tenant AI customer support platform built on OpenClaw | 2026-02-17 | 2 |
 | 11 | [exec-error-doctor-skill](https://github.com/BlueBirdBack/exec-error-doctor-skill) | OpenClaw skill to diagnose and fix command failures (auth, missing binaries, permissi... | 2026-02-16 | 0 |
 | 12 | [exec-clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/exec-clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 13 | [clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [measure_resources](https://github.com/BlueBirdBack/measure_resources) |  | 2024-09-26 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-03-18 19:18 UTC
+Last refresh: 2026-03-19 03:21 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
