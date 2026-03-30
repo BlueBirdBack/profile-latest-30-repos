@@ -9,7 +9,7 @@ Welcome to my GitHub profile.
 |---:|---|---|---|---:|
 | 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-03-29 | 0 |
 | 2 | [web-app-testing](https://github.com/BlueBirdBack/web-app-testing) | Reusable OpenClaw skill for web app UI/UX testing, break-tests, and release QA | 2026-03-27 | 0 |
-| 3 | [askclaw](https://github.com/BlueBirdBack/askclaw) | 一人公司（OPC）· 一人团队（OPT）专属 agent-native IM。为虾而生，由虾打造。Agent-native IM for one-person compa... | 2026-03-25 | 3 |
+| 3 | [askclaw](https://github.com/BlueBirdBack/askclaw) | 一人公司（OPC）· 一人团队（OPT）专属 agent-native IM。为虾而生，由虾打造。Agent-native IM for one-person compa... | 2026-03-25 | 4 |
 | 4 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-03-18 | 0 |
 | 5 | [creem-worker](https://github.com/BlueBirdBack/creem-worker) | Autonomous Creem store monitor — built for OpenClaw, by OpenClaw. Smart alerts, MRR t... | 2026-03-17 | 1 |
 | 6 | [nuxtui-saas](https://github.com/BlueBirdBack/nuxtui-saas) | Premium SaaS landing page builder for Nuxt 3 + Nuxt UI — typography scale, gradient s... | 2026-03-13 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [word_family_counter](https://github.com/BlueBirdBack/word_family_counter) | A Python script for counting word families in a text file using advanced morphologica... | 2024-09-26 | 1 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-03-29 19:03 UTC
+Last refresh: 2026-03-30 03:44 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
