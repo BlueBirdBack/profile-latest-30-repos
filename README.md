@@ -7,9 +7,9 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [mneme](https://github.com/BlueBirdBack/mneme) | Memory that survives the session. Mneme turns raw evidence into durable, source-backe... | 2026-04-04 | 0 |
-| 2 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-04 | 0 |
-| 3 | [openclaw-without-claude](https://github.com/BlueBirdBack/openclaw-without-claude) | Keep OpenClaw running after Anthropic's April 2026 ban. One command to switch to free... | 2026-04-04 | 0 |
+| 1 | [openclaw-without-claude](https://github.com/BlueBirdBack/openclaw-without-claude) | Keep OpenClaw running after Anthropic's April 2026 ban. One command to switch to free... | 2026-04-04 | 0 |
+| 2 | [mneme](https://github.com/BlueBirdBack/mneme) | Memory that survives the session. Mneme turns raw evidence into durable, source-backe... | 2026-04-04 | 0 |
+| 3 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-04 | 0 |
 | 4 | [creem-worker](https://github.com/BlueBirdBack/creem-worker) | Autonomous Creem store monitor — built for OpenClaw, by OpenClaw. Smart alerts, MRR t... | 2026-03-31 | 1 |
 | 5 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-03-31 | 1 |
 | 6 | [web-app-testing](https://github.com/BlueBirdBack/web-app-testing) | Reusable OpenClaw skill for web app UI/UX testing, break-tests, and release QA | 2026-03-27 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [azure_voice_list](https://github.com/BlueBirdBack/azure_voice_list) |  | 2024-09-27 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-04-04 13:29 UTC
+Last refresh: 2026-04-04 19:02 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
