@@ -26,7 +26,7 @@ Welcome to my GitHub profile.
 | 17 | [exec-clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/exec-clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 18 | [clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 19 | [godot-4.4-card-game-tutorial](https://github.com/BlueBirdBack/godot-4.4-card-game-tutorial) | Code implementing card game fundamentals in Godot 4.4, following the tutorial series ... | 2025-06-19 | 1 |
-| 20 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 108 |
+| 20 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 109 |
 | 21 | [deep-pomo](https://github.com/BlueBirdBack/deep-pomo) | A lightweight web app designed to boost productivity using the Pomodoro technique. Bu... | 2025-03-19 | 0 |
 | 22 | [First-2D-Game](https://github.com/BlueBirdBack/First-2D-Game) | A simple 2D game built with Godot 4.4 where players dodge incoming creeps. Based on t... | 2025-03-08 | 0 |
 | 23 | [godot-2d-grid-movement](https://github.com/BlueBirdBack/godot-2d-grid-movement) | A Godot 4.4 port of GDQuest's 2D Tactical RPG Movement tutorial. This demo showcases ... | 2025-03-04 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [amazon-voice-wizard](https://github.com/BlueBirdBack/amazon-voice-wizard) | Transform text into lifelike speech with Amazon Voice Wizard! This demo showcases Ama... | 2024-10-12 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-04-06 19:30 UTC
+Last refresh: 2026-04-07 03:31 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
