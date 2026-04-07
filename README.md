@@ -7,8 +7,8 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [gpt54-ui-skills](https://github.com/BlueBirdBack/gpt54-ui-skills) | Six ⚡ UI judgment skills mainly for GPT-5.4: design-system-preserve + ui-review-loop | 2026-04-07 | 0 |
-| 2 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-07 | 0 |
+| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-07 | 0 |
+| 2 | [gpt54-ui-skills](https://github.com/BlueBirdBack/gpt54-ui-skills) | Six ⚡ UI judgment skills mainly for GPT-5.4: design-system-preserve + ui-review-loop | 2026-04-07 | 0 |
 | 3 | [codex-short-replies](https://github.com/BlueBirdBack/codex-short-replies) | Simple guide and reusable skill to make Codex replies shorter and clearer. | 2026-04-05 | 0 |
 | 4 | [mneme](https://github.com/BlueBirdBack/mneme) | Memory that survives the session. Mneme turns raw evidence into durable, source-backe... | 2026-04-05 | 0 |
 | 5 | [openclaw-terse-gpt54](https://github.com/BlueBirdBack/openclaw-terse-gpt54) | Simple guide and reusable skill to make OpenClaw GPT-5.4 replies shorter and clearer. | 2026-04-05 | 1 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [google-tts-fastapi](https://github.com/BlueBirdBack/google-tts-fastapi) | A FastAPI-based server that provides text-to-speech conversion using the Google Cloud... | 2024-10-13 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-04-07 07:50 UTC
+Last refresh: 2026-04-07 14:02 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
