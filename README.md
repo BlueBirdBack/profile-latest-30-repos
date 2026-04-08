@@ -7,22 +7,22 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [mneme](https://github.com/BlueBirdBack/mneme) | Memory that survives the session. Mneme turns raw evidence into durable, source-backe... | 2026-04-08 | 0 |
-| 2 | [mneme-hermes](https://github.com/BlueBirdBack/mneme-hermes) | Mneme integration ideas and scaffolding for Hermes memory quality and git-aware knowl... | 2026-04-08 | 0 |
-| 3 | [codex-short-replies](https://github.com/BlueBirdBack/codex-short-replies) | Simple guide and reusable skill to make Codex replies shorter and clearer. | 2026-04-08 | 0 |
-| 4 | [hermes-agent-findings](https://github.com/BlueBirdBack/hermes-agent-findings) | Findings and notes after reading the Hermes Agent codebase | 2026-04-08 | 0 |
-| 5 | [openclaw-terse-gpt54](https://github.com/BlueBirdBack/openclaw-terse-gpt54) | Simple guide and reusable skill to make OpenClaw GPT-5.4 replies shorter and clearer. | 2026-04-08 | 1 |
-| 6 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-07 | 0 |
-| 7 | [openclaw-codex-auth-sync](https://github.com/BlueBirdBack/openclaw-codex-auth-sync) | Utilities for checking and syncing Codex OAuth state across agent containers. | 2026-04-07 | 0 |
-| 8 | [gpt54-ui-skills](https://github.com/BlueBirdBack/gpt54-ui-skills) | Six ⚡ UI judgment skills mainly for GPT-5.4: design-system-preserve + ui-review-loop | 2026-04-07 | 0 |
-| 9 | [openclaw-without-claude](https://github.com/BlueBirdBack/openclaw-without-claude) | Keep OpenClaw running after Anthropic's April 2026 ban. One command to switch to free... | 2026-04-04 | 0 |
-| 10 | [creem-worker](https://github.com/BlueBirdBack/creem-worker) | Autonomous Creem store monitor — built for OpenClaw, by OpenClaw. Smart alerts, MRR t... | 2026-03-31 | 1 |
-| 11 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-03-31 | 1 |
-| 12 | [web-app-testing](https://github.com/BlueBirdBack/web-app-testing) | Reusable OpenClaw skill for web app UI/UX testing, break-tests, and release QA | 2026-03-27 | 0 |
-| 13 | [askclaw](https://github.com/BlueBirdBack/askclaw) | 一人公司（OPC）· 一人团队（OPT）专属 agent-native IM。为虾而生，由虾打造。Agent-native IM for one-person compa... | 2026-03-25 | 5 |
-| 14 | [nuxtui-saas](https://github.com/BlueBirdBack/nuxtui-saas) | Premium SaaS landing page builder for Nuxt 3 + Nuxt UI — typography scale, gradient s... | 2026-03-13 | 0 |
-| 15 | [openclaw-pain-points](https://github.com/BlueBirdBack/openclaw-pain-points) | Community research: OpenClaw's top user pain points ranked by frequency × severity | 2026-03-07 | 0 |
-| 16 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-03-07 | 0 |
+| 1 | [gpt54-ui-skills](https://github.com/BlueBirdBack/gpt54-ui-skills) | Six ⚡ UI judgment skills mainly for GPT-5.4: design-system-preserve + ui-review-loop | 2026-04-08 | 0 |
+| 2 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-04-08 | 0 |
+| 3 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-08 | 0 |
+| 4 | [mneme](https://github.com/BlueBirdBack/mneme) | Memory that survives the session. Mneme turns raw evidence into durable, source-backe... | 2026-04-08 | 0 |
+| 5 | [mneme-hermes](https://github.com/BlueBirdBack/mneme-hermes) | Mneme integration ideas and scaffolding for Hermes memory quality and git-aware knowl... | 2026-04-08 | 0 |
+| 6 | [codex-short-replies](https://github.com/BlueBirdBack/codex-short-replies) | Simple guide and reusable skill to make Codex replies shorter and clearer. | 2026-04-08 | 0 |
+| 7 | [hermes-agent-findings](https://github.com/BlueBirdBack/hermes-agent-findings) | Findings and notes after reading the Hermes Agent codebase | 2026-04-08 | 0 |
+| 8 | [openclaw-terse-gpt54](https://github.com/BlueBirdBack/openclaw-terse-gpt54) | Simple guide and reusable skill to make OpenClaw GPT-5.4 replies shorter and clearer. | 2026-04-08 | 1 |
+| 9 | [openclaw-codex-auth-sync](https://github.com/BlueBirdBack/openclaw-codex-auth-sync) | Utilities for checking and syncing Codex OAuth state across agent containers. | 2026-04-07 | 0 |
+| 10 | [openclaw-without-claude](https://github.com/BlueBirdBack/openclaw-without-claude) | Keep OpenClaw running after Anthropic's April 2026 ban. One command to switch to free... | 2026-04-04 | 0 |
+| 11 | [creem-worker](https://github.com/BlueBirdBack/creem-worker) | Autonomous Creem store monitor — built for OpenClaw, by OpenClaw. Smart alerts, MRR t... | 2026-03-31 | 1 |
+| 12 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-03-31 | 1 |
+| 13 | [web-app-testing](https://github.com/BlueBirdBack/web-app-testing) | Reusable OpenClaw skill for web app UI/UX testing, break-tests, and release QA | 2026-03-27 | 0 |
+| 14 | [askclaw](https://github.com/BlueBirdBack/askclaw) | 一人公司（OPC）· 一人团队（OPT）专属 agent-native IM。为虾而生，由虾打造。Agent-native IM for one-person compa... | 2026-03-25 | 5 |
+| 15 | [nuxtui-saas](https://github.com/BlueBirdBack/nuxtui-saas) | Premium SaaS landing page builder for Nuxt 3 + Nuxt UI — typography scale, gradient s... | 2026-03-13 | 0 |
+| 16 | [openclaw-pain-points](https://github.com/BlueBirdBack/openclaw-pain-points) | Community research: OpenClaw's top user pain points ranked by frequency × severity | 2026-03-07 | 0 |
 | 17 | [claw-history-skill](https://github.com/BlueBirdBack/claw-history-skill) | OpenClaw skill for full chronological action history (from birth to now) with account... | 2026-03-06 | 0 |
 | 18 | [repo-audit-modes-skill](https://github.com/BlueBirdBack/repo-audit-modes-skill) | OpenClaw skill for repo analysis in 3 modes: quick scan, deep audit, and clone+run lo... | 2026-02-21 | 0 |
 | 19 | [claw-desk](https://github.com/BlueBirdBack/claw-desk) | ClawDesk — Multi-tenant AI customer support platform built on OpenClaw | 2026-02-17 | 2 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [groq-caption](https://github.com/BlueBirdBack/groq-caption) | A simple Python project to generate subtitles for video files using the Groq Whisper ... | 2024-11-03 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-04-08 03:33 UTC
+Last refresh: 2026-04-08 07:53 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
