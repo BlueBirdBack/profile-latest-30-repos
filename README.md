@@ -7,7 +7,7 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-18 | 0 |
+| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-19 | 0 |
 | 2 | [hermes-direct-gpt54](https://github.com/BlueBirdBack/hermes-direct-gpt54) | Make Hermes on GPT-5.4 shorter, clearer, and more direct by patching the files Hermes... | 2026-04-16 | 0 |
 | 3 | [openclaw-direct-gpt54](https://github.com/BlueBirdBack/openclaw-direct-gpt54) | Prompt-side guidance and reusable skill patterns for making OpenClaw GPT-5.4 replies ... | 2026-04-13 | 1 |
 | 4 | [openclaw-codex-auth-sync](https://github.com/BlueBirdBack/openclaw-codex-auth-sync) | Utilities for checking and syncing Codex OAuth state across agent containers. | 2026-04-11 | 0 |
@@ -31,7 +31,7 @@ Welcome to my GitHub profile.
 | 22 | [exec-clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/exec-clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 23 | [clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 24 | [godot-4.4-card-game-tutorial](https://github.com/BlueBirdBack/godot-4.4-card-game-tutorial) | Code implementing card game fundamentals in Godot 4.4, following the tutorial series ... | 2025-06-19 | 1 |
-| 25 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 109 |
+| 25 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 110 |
 | 26 | [deep-pomo](https://github.com/BlueBirdBack/deep-pomo) | A lightweight web app designed to boost productivity using the Pomodoro technique. Bu... | 2025-03-19 | 0 |
 | 27 | [First-2D-Game](https://github.com/BlueBirdBack/First-2D-Game) | A simple 2D game built with Godot 4.4 where players dodge incoming creeps. Based on t... | 2025-03-08 | 0 |
 | 28 | [godot-2d-grid-movement](https://github.com/BlueBirdBack/godot-2d-grid-movement) | A Godot 4.4 port of GDQuest's 2D Tactical RPG Movement tutorial. This demo showcases ... | 2025-03-04 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [groq-subtitles](https://github.com/BlueBirdBack/groq-subtitles) | Batch video subtitle generation using Groq Whisper API | 2024-12-01 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-04-19 03:50 UTC
+Last refresh: 2026-04-19 07:46 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
