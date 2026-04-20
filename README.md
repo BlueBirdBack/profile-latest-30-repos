@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [groq-subtitles](https://github.com/BlueBirdBack/groq-subtitles) | Batch video subtitle generation using Groq Whisper API | 2024-12-01 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-04-20 14:14 UTC
+Last refresh: 2026-04-20 19:34 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
