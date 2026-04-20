@@ -7,7 +7,7 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-19 | 0 |
+| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-20 | 0 |
 | 2 | [hermes-direct-gpt54](https://github.com/BlueBirdBack/hermes-direct-gpt54) | Make Hermes on GPT-5.4 shorter, clearer, and more direct by patching the files Hermes... | 2026-04-16 | 0 |
 | 3 | [openclaw-direct-gpt54](https://github.com/BlueBirdBack/openclaw-direct-gpt54) | Prompt-side guidance and reusable skill patterns for making OpenClaw GPT-5.4 replies ... | 2026-04-13 | 1 |
 | 4 | [openclaw-codex-auth-sync](https://github.com/BlueBirdBack/openclaw-codex-auth-sync) | Utilities for checking and syncing Codex OAuth state across agent containers. | 2026-04-11 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [groq-subtitles](https://github.com/BlueBirdBack/groq-subtitles) | Batch video subtitle generation using Groq Whisper API | 2024-12-01 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-04-20 03:52 UTC
+Last refresh: 2026-04-20 08:28 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
