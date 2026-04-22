@@ -8,7 +8,7 @@ Welcome to my GitHub profile.
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
 | 1 | [hermes-local-codex-cli-skill](https://github.com/BlueBirdBack/hermes-local-codex-cli-skill) | Hermes skill for orchestrating the local Codex CLI with separate auth and proxy/Clash... | 2026-04-22 | 0 |
-| 2 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-21 | 0 |
+| 2 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-22 | 0 |
 | 3 | [hermes-direct-gpt54](https://github.com/BlueBirdBack/hermes-direct-gpt54) | Make Hermes on GPT-5.4 shorter, clearer, and more direct by patching the files Hermes... | 2026-04-16 | 0 |
 | 4 | [openclaw-direct-gpt54](https://github.com/BlueBirdBack/openclaw-direct-gpt54) | Prompt-side guidance and reusable skill patterns for making OpenClaw GPT-5.4 replies ... | 2026-04-13 | 1 |
 | 5 | [openclaw-codex-auth-sync](https://github.com/BlueBirdBack/openclaw-codex-auth-sync) | Utilities for checking and syncing Codex OAuth state across agent containers. | 2026-04-11 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [vtt-to-text](https://github.com/BlueBirdBack/vtt-to-text) | A Python script to convert WebVTT subtitle files (.vtt) to plain text transcripts. Su... | 2025-01-05 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-04-22 03:43 UTC
+Last refresh: 2026-04-22 08:06 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
