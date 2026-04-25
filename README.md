@@ -7,16 +7,16 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-24 | 0 |
-| 2 | [hermes-local-codex-cli-skill](https://github.com/BlueBirdBack/hermes-local-codex-cli-skill) | Hermes skill for orchestrating the local Codex CLI with separate auth and proxy/Clash... | 2026-04-22 | 0 |
-| 3 | [hermes-direct-gpt54](https://github.com/BlueBirdBack/hermes-direct-gpt54) | Make Hermes on GPT-5.4 shorter, clearer, and more direct by patching the files Hermes... | 2026-04-16 | 0 |
-| 4 | [openclaw-direct-gpt54](https://github.com/BlueBirdBack/openclaw-direct-gpt54) | Prompt-side guidance and reusable skill patterns for making OpenClaw GPT-5.4 replies ... | 2026-04-13 | 1 |
-| 5 | [openclaw-codex-auth-sync](https://github.com/BlueBirdBack/openclaw-codex-auth-sync) | Utilities for checking and syncing Codex OAuth state across agent containers. | 2026-04-11 | 0 |
-| 6 | [codex-short-replies](https://github.com/BlueBirdBack/codex-short-replies) | Simple guide and reusable skill to make Codex replies shorter and clearer. | 2026-04-11 | 0 |
-| 7 | [gpt54-ui-skills](https://github.com/BlueBirdBack/gpt54-ui-skills) | Six ⚡ UI judgment skills mainly for GPT-5.4: design-system-preserve + ui-review-loop | 2026-04-10 | 0 |
-| 8 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-04-08 | 0 |
-| 9 | [mneme](https://github.com/BlueBirdBack/mneme) | Memory that survives the session. Mneme turns raw evidence into durable, source-backe... | 2026-04-08 | 0 |
-| 10 | [mneme-hermes](https://github.com/BlueBirdBack/mneme-hermes) | Mneme integration ideas and scaffolding for Hermes memory quality and git-aware knowl... | 2026-04-08 | 0 |
+| 1 | [mneme-hermes](https://github.com/BlueBirdBack/mneme-hermes) | Hermes memory audit toolkit: Mneme-style quality checks, snapshots, provenance notes,... | 2026-04-25 | 0 |
+| 2 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-04-25 | 0 |
+| 3 | [hermes-local-codex-cli-skill](https://github.com/BlueBirdBack/hermes-local-codex-cli-skill) | Hermes skill for orchestrating the local Codex CLI with separate auth and proxy/Clash... | 2026-04-22 | 0 |
+| 4 | [hermes-direct-gpt54](https://github.com/BlueBirdBack/hermes-direct-gpt54) | Make Hermes on GPT-5.4 shorter, clearer, and more direct by patching the files Hermes... | 2026-04-16 | 0 |
+| 5 | [openclaw-direct-gpt54](https://github.com/BlueBirdBack/openclaw-direct-gpt54) | Prompt-side guidance and reusable skill patterns for making OpenClaw GPT-5.4 replies ... | 2026-04-13 | 1 |
+| 6 | [openclaw-codex-auth-sync](https://github.com/BlueBirdBack/openclaw-codex-auth-sync) | Utilities for checking and syncing Codex OAuth state across agent containers. | 2026-04-11 | 0 |
+| 7 | [codex-short-replies](https://github.com/BlueBirdBack/codex-short-replies) | Simple guide and reusable skill to make Codex replies shorter and clearer. | 2026-04-11 | 0 |
+| 8 | [gpt54-ui-skills](https://github.com/BlueBirdBack/gpt54-ui-skills) | Six ⚡ UI judgment skills mainly for GPT-5.4: design-system-preserve + ui-review-loop | 2026-04-10 | 0 |
+| 9 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-04-08 | 0 |
+| 10 | [mneme](https://github.com/BlueBirdBack/mneme) | Memory that survives the session. Mneme turns raw evidence into durable, source-backe... | 2026-04-08 | 0 |
 | 11 | [hermes-agent-findings](https://github.com/BlueBirdBack/hermes-agent-findings) | Findings and notes after reading the Hermes Agent codebase | 2026-04-08 | 0 |
 | 12 | [openclaw-without-claude](https://github.com/BlueBirdBack/openclaw-without-claude) | Keep OpenClaw running after Anthropic's April 2026 ban. One command to switch to free... | 2026-04-04 | 0 |
 | 13 | [creem-worker](https://github.com/BlueBirdBack/creem-worker) | Autonomous Creem store monitor — built for OpenClaw, by OpenClaw. Smart alerts, MRR t... | 2026-03-31 | 1 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [vtt-to-text](https://github.com/BlueBirdBack/vtt-to-text) | A Python script to convert WebVTT subtitle files (.vtt) to plain text transcripts. Su... | 2025-01-05 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-04-25 03:33 UTC
+Last refresh: 2026-04-25 07:46 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
