@@ -7,7 +7,7 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-05-01 | 0 |
+| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-05-02 | 0 |
 | 2 | [english-coach](https://github.com/BlueBirdBack/english-coach) | 英语教练：Hermes 英语学习 skill by Rac 🦝 | 2026-04-29 | 1 |
 | 3 | [hermes-dashboard-nightshift-ops](https://github.com/BlueBirdBack/hermes-dashboard-nightshift-ops) | Night Shift Ops — Hermes Agent dashboard theme + optional showcase plugin | 2026-04-26 | 0 |
 | 4 | [100-Days-of-GPTs](https://github.com/BlueBirdBack/100-Days-of-GPTs) | 100 practical GPT builds and prompt patterns—one per day—to learn, teach, and ship wi... | 2026-04-25 | 39 |
@@ -35,10 +35,10 @@ Welcome to my GitHub profile.
 | 26 | [exec-clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/exec-clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 27 | [clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 28 | [godot-4.4-card-game-tutorial](https://github.com/BlueBirdBack/godot-4.4-card-game-tutorial) | Code implementing card game fundamentals in Godot 4.4, following the tutorial series ... | 2025-06-19 | 1 |
-| 29 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 110 |
+| 29 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 111 |
 | 30 | [deep-pomo](https://github.com/BlueBirdBack/deep-pomo) | A lightweight web app designed to boost productivity using the Pomodoro technique. Bu... | 2025-03-19 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-05-02 03:52 UTC
+Last refresh: 2026-05-02 08:00 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
