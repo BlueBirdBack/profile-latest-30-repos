@@ -7,8 +7,8 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-05-11 | 0 |
-| 2 | [english-coach](https://github.com/BlueBirdBack/english-coach) | 英语教练：Hermes 英语学习 skill by Rac 🦝 | 2026-05-10 | 1 |
+| 1 | [english-coach](https://github.com/BlueBirdBack/english-coach) | 英语教练：Hermes 英语学习 skill by Rac 🦝 | 2026-05-12 | 1 |
+| 2 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-05-12 | 0 |
 | 3 | [hermes-dashboard-nightshift-ops](https://github.com/BlueBirdBack/hermes-dashboard-nightshift-ops) | Night Shift Ops — Hermes Agent dashboard theme + optional showcase plugin | 2026-04-26 | 0 |
 | 4 | [100-Days-of-GPTs](https://github.com/BlueBirdBack/100-Days-of-GPTs) | 100 practical GPT builds and prompt patterns—one per day—to learn, teach, and ship wi... | 2026-04-25 | 39 |
 | 5 | [mneme-hermes](https://github.com/BlueBirdBack/mneme-hermes) | Hermes memory audit toolkit: Mneme-style quality checks, snapshots, provenance notes,... | 2026-04-25 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [deep-pomo](https://github.com/BlueBirdBack/deep-pomo) | A lightweight web app designed to boost productivity using the Pomodoro technique. Bu... | 2025-03-19 | 0 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-05-12 04:06 UTC
+Last refresh: 2026-05-12 09:12 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
