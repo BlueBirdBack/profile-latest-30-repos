@@ -22,7 +22,7 @@ Welcome to my GitHub profile.
 | 13 | [x-post-playbook-skill](https://github.com/BlueBirdBack/x-post-playbook-skill) | OpenClaw skill: turn X/Twitter posts into execution playbooks + profile pattern mining | 2026-04-08 | 0 |
 | 14 | [mneme](https://github.com/BlueBirdBack/mneme) | Memory that survives the session. Mneme turns raw evidence into durable, source-backe... | 2026-04-08 | 0 |
 | 15 | [hermes-agent-findings](https://github.com/BlueBirdBack/hermes-agent-findings) | Findings and notes after reading the Hermes Agent codebase | 2026-04-08 | 0 |
-| 16 | [openclaw-without-claude](https://github.com/BlueBirdBack/openclaw-without-claude) | Keep OpenClaw running after Anthropic's April 2026 ban. One command to switch to free... | 2026-04-04 | 1 |
+| 16 | [openclaw-without-claude](https://github.com/BlueBirdBack/openclaw-without-claude) | Keep OpenClaw running after Anthropic's April 2026 ban. One command to switch to free... | 2026-04-04 | 0 |
 | 17 | [creem-worker](https://github.com/BlueBirdBack/creem-worker) | Autonomous Creem store monitor — built for OpenClaw, by OpenClaw. Smart alerts, MRR t... | 2026-03-31 | 1 |
 | 18 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-03-31 | 1 |
 | 19 | [web-app-testing](https://github.com/BlueBirdBack/web-app-testing) | Reusable OpenClaw skill for web app UI/UX testing, break-tests, and release QA | 2026-03-27 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 113 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-05-28 20:37 UTC
+Last refresh: 2026-05-29 04:43 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
