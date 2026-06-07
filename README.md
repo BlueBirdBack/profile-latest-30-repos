@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 113 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-06-07 09:40 UTC
+Last refresh: 2026-06-07 14:20 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
