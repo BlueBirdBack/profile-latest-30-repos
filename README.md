@@ -31,7 +31,7 @@ Welcome to my GitHub profile.
 | 22 | [openclaw-pain-points](https://github.com/BlueBirdBack/openclaw-pain-points) | Community research: OpenClaw's top user pain points ranked by frequency × severity | 2026-03-07 | 0 |
 | 23 | [claw-history-skill](https://github.com/BlueBirdBack/claw-history-skill) | OpenClaw skill for full chronological action history (from birth to now) with account... | 2026-03-06 | 0 |
 | 24 | [repo-audit-modes-skill](https://github.com/BlueBirdBack/repo-audit-modes-skill) | OpenClaw skill for repo analysis in 3 modes: quick scan, deep audit, and clone+run lo... | 2026-02-21 | 0 |
-| 25 | [claw-desk](https://github.com/BlueBirdBack/claw-desk) | ClawDesk — Multi-tenant AI customer support platform built on OpenClaw | 2026-02-17 | 2 |
+| 25 | [claw-desk](https://github.com/BlueBirdBack/claw-desk) | ClawDesk — Multi-tenant AI customer support platform built on OpenClaw | 2026-02-17 | 3 |
 | 26 | [exec-error-doctor-skill](https://github.com/BlueBirdBack/exec-error-doctor-skill) | OpenClaw skill to diagnose and fix command failures (auth, missing binaries, permissi... | 2026-02-16 | 0 |
 | 27 | [exec-clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/exec-clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
 | 28 | [clawhub-publish-doctor-skill](https://github.com/BlueBirdBack/clawhub-publish-doctor-skill) |  | 2026-02-16 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 114 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-06-21 10:05 UTC
+Last refresh: 2026-06-21 14:33 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
