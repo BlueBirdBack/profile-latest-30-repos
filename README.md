@@ -26,7 +26,7 @@ Welcome to my GitHub profile.
 | 17 | [creem-worker](https://github.com/BlueBirdBack/creem-worker) | Autonomous Creem store monitor — built for OpenClaw, by OpenClaw. Smart alerts, MRR t... | 2026-03-31 | 1 |
 | 18 | [openclaw-lighthouse](https://github.com/BlueBirdBack/openclaw-lighthouse) | Practical OpenClaw issue/fix playbook from real incidents. | 2026-03-31 | 1 |
 | 19 | [web-app-testing](https://github.com/BlueBirdBack/web-app-testing) | Reusable OpenClaw skill for web app UI/UX testing, break-tests, and release QA | 2026-03-27 | 0 |
-| 20 | [askclaw](https://github.com/BlueBirdBack/askclaw) | 一人公司（OPC）· 一人团队（OPT）专属 agent-native IM。为虾而生，由虾打造。Agent-native IM for one-person compa... | 2026-03-25 | 7 |
+| 20 | [askclaw](https://github.com/BlueBirdBack/askclaw) | 一人公司（OPC）· 一人团队（OPT）专属 agent-native IM。为虾而生，由虾打造。Agent-native IM for one-person compa... | 2026-03-25 | 8 |
 | 21 | [nuxtui-saas](https://github.com/BlueBirdBack/nuxtui-saas) | Premium SaaS landing page builder for Nuxt 3 + Nuxt UI — typography scale, gradient s... | 2026-03-13 | 0 |
 | 22 | [openclaw-pain-points](https://github.com/BlueBirdBack/openclaw-pain-points) | Community research: OpenClaw's top user pain points ranked by frequency × severity | 2026-03-07 | 0 |
 | 23 | [claw-history-skill](https://github.com/BlueBirdBack/claw-history-skill) | OpenClaw skill for full chronological action history (from birth to now) with account... | 2026-03-06 | 0 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 117 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-07-25 14:02 UTC
+Last refresh: 2026-07-25 19:35 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
