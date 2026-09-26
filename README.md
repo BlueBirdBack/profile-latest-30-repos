@@ -7,8 +7,8 @@ Welcome to my GitHub profile.
 <!-- START_LATEST_REPOS -->
 | # | Repository | Description | Updated | ⭐ |
 |---:|---|---|---|---:|
-| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-09-25 | 0 |
-| 2 | [english-coach](https://github.com/BlueBirdBack/english-coach) | 英语教练：Hermes 英语学习 skill by Rac 🦝 | 2026-05-22 | 3 |
+| 1 | [profile-latest-30-repos](https://github.com/BlueBirdBack/profile-latest-30-repos) |  | 2026-09-26 | 0 |
+| 2 | [english-coach](https://github.com/BlueBirdBack/english-coach) | 英语教练：Hermes 英语学习 skill by Rac 🦝 | 2026-05-22 | 4 |
 | 3 | [hermes-dashboard-signal-sky](https://github.com/BlueBirdBack/hermes-dashboard-signal-sky) | Signal Sky theme for the Hermes Agent dashboard | 2026-05-13 | 0 |
 | 4 | [hermes-dashboard-nightshift-ops](https://github.com/BlueBirdBack/hermes-dashboard-nightshift-ops) | Night Shift Ops — Hermes Agent dashboard theme + optional showcase plugin | 2026-05-13 | 0 |
 | 5 | [100-Days-of-GPTs](https://github.com/BlueBirdBack/100-Days-of-GPTs) | 100 practical GPT builds and prompt patterns—one per day—to learn, teach, and ship wi... | 2026-04-25 | 39 |
@@ -39,6 +39,6 @@ Welcome to my GitHub profile.
 | 30 | [godot-cursorrules](https://github.com/BlueBirdBack/godot-cursorrules) | Godot 4.4 Cursor rules: coding standards, architecture patterns, and performance tips... | 2025-03-25 | 119 |
 <!-- END_LATEST_REPOS -->
 
-Last refresh: 2026-09-26 05:02 UTC
+Last refresh: 2026-09-26 11:28 UTC
 
 > Note: GitHub profile cards are limited to 6 pinned/popular repos. This section shows a larger, rolling list instead.
